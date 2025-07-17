@@ -160,7 +160,4 @@
 
 ---
 
-**Elaborado por:** Bibiana Trujillo Cedeño\
-**Programa:** ONE + Alura LATAM\
-**Especialización:** Ciencia de Datos
 
