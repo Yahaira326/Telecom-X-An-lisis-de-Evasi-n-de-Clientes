@@ -1,7 +1,7 @@
 # 📈 Proyecto Telecom X – Análisis de Evasión de Clientes
 
 ## 🚀 Descripción
-Este proyecto analiza datos de clientes de Telecom X con el objetivo de identificar factores que influyen en la cancelación del servicio (churn). Forma parte del programa de especialización en Ciencia de Datos de Alura + ONE.
+Proyecto analiza datos de clientes de Telecom X con el objetivo de identificar factores que influyen en la cancelación del servicio (churn). Forma parte del programa de especialización en Ciencia de Datos de Alura + ONE.
 
 ## 🔬 Objetivo
 Explorar los datos, identificar patrones de evasíon y generar recomendaciones estratégicas basadas en análisis descriptivo y visualizaciones. El análisis servirá como base para modelos predictivos futuros.
@@ -29,10 +29,6 @@ Explorar los datos, identificar patrones de evasíon y generar recomendaciones e
 - Evaluación de variables numéricas (meses, cargos, cuenta diaria)
 - Correlación entre variables y su relación con la evasíon
 
-## 📅 Principales hallazgos
-- Clientes jóvenes, sin pareja ni dependientes, y con factura electrónica tienen mayor propensión a cancelar.
-- Contratos mensuales y el método de pago "Electronic Check" están altamente correlacionados con el churn.
-- Clientes que cancelan suelen hacerlo en los primeros meses del contrato.
 
 ## 🔧 Cómo ejecutar el proyecto
 1. Abre el archivo `TelecomX_LATAM.ipynb` en Google Colab.
@@ -44,6 +40,5 @@ Explorar los datos, identificar patrones de evasíon y generar recomendaciones e
 - Bibliotecas instaladas (o usarlas en entorno Colab)
 - Datos en formato `.csv` o cargados desde la API proporcionada por el reto
 
-## 👥 Autora
-Proyecto desarrollado por **Bibiana Trujillo Cedeño**, participante del programa ONE + Alura LATAM, Especialización en Ciencia de Datos.
+
 
